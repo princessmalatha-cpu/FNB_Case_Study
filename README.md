@@ -4,7 +4,7 @@ Creating FNB repositoty
 
 Interactive Lovable Dashboard
 https://lovable.dev/projects/59f74b42-bca4-446a-91e9-365b8ac443bb
-
+https://lovable.dev/projects/59f74b42-bca4-446a-91e9-365b8ac443bb?magic_link=mc_ddb89cbc-872c-4f30-ba8a-c0674a70a518
 
 Retail Sales Analytics Dashboard
 Overview
